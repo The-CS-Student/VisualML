@@ -20,7 +20,6 @@ function draw() {
 	line(0,ybegin,windowWidth,yend)
 }
 function mouseClicked() {
-	console.log("Mouse Clicked");
 	data.push([mouseX,mouseY]);
 	xsquared = 0;
 	xsum = 0;
@@ -34,5 +33,5 @@ function mouseClicked() {
 	}
 	w = ((xyproduct - b*xsum)/xsquared)
 	b = (ysum - w*xsum)/data.length
-	print(w,b)
+	
 }
