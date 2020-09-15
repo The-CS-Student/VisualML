@@ -1,5 +1,5 @@
-#Visual ML
+# Visual ML
 This is a repository containing visualizing to multiple machine learning algorithms.
 
-##Algorithms
+## Algorithms
 *Linear Regression (Completed)
