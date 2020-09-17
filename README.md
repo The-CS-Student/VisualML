@@ -3,3 +3,4 @@ This is a repository containing visualizing to multiple machine learning algorit
 
 ## Algorithms
 * Linear Regression (Completed)
+* Logistic Regression (Completed)
